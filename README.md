@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [sendit.ru](https://github.com/sendit-ru)
+- 📫 How to reach me: [Telegram: @yaraliev](https://t.me/yaraliev)
+
+![Dadyarri's github stats](https://github-readme-stats.vercel.app/api?username=orion122&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orion122)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **orion122/orion122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
