@@ -1,11 +1,11 @@
+![Dadyarri's github stats](https://github-readme-stats.vercel.app/api?username=orion122&count_private=true&show_icons=true)
+
+<!--
 ### Hi there 👋
 
 - 🔭 I’m currently working on [sendit.ru](https://github.com/sendit-ru)
 - 📫 How to reach me: [Telegram: @yaraliev](https://t.me/yaraliev)
 
-![Dadyarri's github stats](https://github-readme-stats.vercel.app/api?username=orion122&count_private=true&show_icons=true)
-
-<!--
 **orion122/orion122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
